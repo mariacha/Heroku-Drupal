@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/sample_blog"]
+	path = sites/all/modules/sample_blog
+	url = git@github.com:mariacha/simple-blog.git
